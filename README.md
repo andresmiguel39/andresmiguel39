@@ -1,4 +1,12 @@
-### Hi there 👋
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andres-chaparro/) ![github watchers](https://img.shields.io/github/watchers/andresmiguel39/andresmiguel39?style=social)
+
+## Andres Chaparro
+
+### About Me 🏍️
+
+Constant learner, Passionate DevOps, These days I work extensively with CI/CD, good practices advocate
+
+- 🔭 I’m currently working on DevOps.
 
 <!--
 **andresmiguel39/andresmiguel39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
